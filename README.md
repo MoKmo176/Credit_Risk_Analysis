@@ -8,30 +8,30 @@ The purpose of this analysis is to develop a Python programming machine learning
 - Balanced accuracy score is sixty-five percent. 
 - The high_risk prescision is only one percent with an F1 score of two percent.
 - The low_risk had a precision rate of one hundred percent with a sixty-eight percent sensitivity. 
-![RandomeOverSampler]()
+![RandomeOverSampler](https://github.com/MoKmo176/Credit_Risk_Analysis/blob/5beab1f84d67948b6cf8d8b88e8d9af82131648b/ReadmeFiles/Screenshot%202021-12-19%20at%2010.24.37%20PM.png)
 
 - The balanced accuracy score is sixty-four percent. 
 - The high_risk precision is about one percent with sixty-three percent sensitivity which makes a F1 of two percent only. 
-![SMOTE]()
+![SMOTE](https://github.com/MoKmo176/Credit_Risk_Analysis/blob/5beab1f84d67948b6cf8d8b88e8d9af82131648b/ReadmeFiles/Screenshot%202021-12-19%20at%2010.25.09%20PM.png)
 
 - The balanced accuracy score is down to about fifty-two percent. 
 - The high_risk is one percent with sixty-three percent sensitivity which makes a F1 of one-percent, and due to the high number of false positives, low_risk sensitivity is only forty percent. 
-![ClusterCentroids]()
+![ClusterCentroids](https://github.com/MoKmo176/Credit_Risk_Analysis/blob/5beab1f84d67948b6cf8d8b88e8d9af82131648b/ReadmeFiles/Screenshot%202021-12-19%20at%2010.25.53%20PM.png)
 
 - The balanced accuracy score is about sixty-two percent. 
 - The high_risk prevision is one percent with sixty-eight percent sensitivity with a F1 of two percent. 
 - Due to the high number of false positives, the low_risk sensitivity is fifty-sevent percent. 
-![SMOTEENN]()
+![SMOTEENN](https://github.com/MoKmo176/Credit_Risk_Analysis/blob/5beab1f84d67948b6cf8d8b88e8d9af82131648b/ReadmeFiles/Screenshot%202021-12-19%20at%2010.26.18%20PM.png)
 
 - The balanced accuracy score improved to seventy-nine percent. 
 - The high_risk precision is at four percent with sixty-seven percent sensitivity whivh makes a F1 of only seven percent. 
 - There are less false positives, the low_risk sensitivity is ninety-one percen with one-hundred percent precision. 
-![BalancedRandomForestClassifier]()
+![BalancedRandomForestClassifier](https://github.com/MoKmo176/Credit_Risk_Analysis/blob/5beab1f84d67948b6cf8d8b88e8d9af82131648b/ReadmeFiles/Screenshot%202021-12-19%20at%2010.26.53%20PM.png)
 
 - The balanced accuracy score is about ninety-three percent
 - The high_risk precision is at seven percent with ninety-one percent sensitivity which makes a F1 of only fourteen percent. 
 - With less false positives in the comps, low_risk sensitivity is ninety-four percent with one hundred percent precision. 
-![EasyEnsembleClassifier]()
+![EasyEnsembleClassifier](https://github.com/MoKmo176/Credit_Risk_Analysis/blob/5beab1f84d67948b6cf8d8b88e8d9af82131648b/ReadmeFiles/Screenshot%202021-12-19%20at%2010.28.15%20PM.png)
 
 ## Summary 
 
